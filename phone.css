@@ -30,12 +30,12 @@
     .img-3{
       width: 20px;
       position: relative;
-      left: 335px;
+      left: 330px;
       top: -40px;
       filter: brightness(0.5);
     }
     h1{
-        width: 31%;
+        width: 35%;
         position: relative;
         left: 5%;
         top: 40px;
@@ -47,7 +47,7 @@
         font-size: 0.7rem;
         margin: 0px;
         font-family: sans-serif;
-        width: 31%;
+        width: 44%;
         text-align: center;
         position: relative;
         left: 19%;
