@@ -1,7 +1,5 @@
 @media (max-width: 426px) {
-    body{
-        position: fixed;
-        }
+   
     ul {
       display: flex;
       padding: 0px !important;
