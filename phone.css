@@ -1,7 +1,4 @@
 @media (max-width: 426px) {
-    body{
-        position: fixed;
-    }
     ul {
       display: flex;
       padding: 0px !important;
@@ -9,7 +6,7 @@
       position: absolute;
       font-size: large;
       text-align: center;
-      margin-left: -300px;
+      margin-left: -240px;
       margin-top: 2.5rem !important;
     }
     li a{
