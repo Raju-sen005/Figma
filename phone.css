@@ -16,7 +16,7 @@
     .img-1{
       width: 20px;
       position: relative;
-      left: 220px;
+      left: 0px;
       top: 7px;
       filter: brightness(0.5);
     }
