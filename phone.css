@@ -1,0 +1,207 @@
+@media (max-width: 426px) {
+    ul {
+      display: flex;
+      padding: 0px !important;
+      flex-direction: column;
+      position: absolute;
+      font-size: large;
+      text-align: center;
+      margin-left: -300px;
+      margin-top: 2.5rem !important;
+    }
+    li a{
+      text-decoration: none;
+      color: #5d5d5d;
+    }
+    .img-1{
+      width: 20px;
+      position: relative;
+      left: 240px;
+      top: 7px;
+      filter: brightness(0.5);
+    }
+    .img-2{
+      width: 20px;
+      position: relative;
+      left: 275px;
+      top: -16px;
+      filter: brightness(0.5);
+    }
+    .img-3{
+      width: 20px;
+      position: relative;
+      left: 380px;
+      top: -40px;
+      filter: brightness(0.5);
+    }
+    h1{
+        width: 31%;
+        position: relative;
+        left: 5%;
+        top: 40px;
+        margin-left: 85px;
+        text-align: center;
+        font-size: calc(1.23rem + 0.5vw) !important;
+    }
+    p{
+        font-size: 0.7rem;
+        margin: 0px;
+        font-family: sans-serif;
+        width: 31%;
+        text-align: center;
+        position: relative;
+        left: 19%;
+        top: 40px;
+    }
+    #c-1{
+        background: #0d6b72;
+        border-radius: 100px;
+        padding: 5px 10px 5px 10px;
+        position: relative;
+        left: 25%;
+        top: 30px;
+        text-align: center;
+        border: transparent;
+        width: 100px;
+        height: 25px;
+        font-size: 0.71rem;
+    }
+    #c-2{
+        background: transparent;
+        border-radius: 100px;
+        position: relative;
+        left: 9%;
+        top: 65px;
+        text-align: center;
+        width: 90px;
+        height: 25px;
+        font-size: 0.71rem;
+        border-color: #0c770c;
+    }
+    .contain{
+        width: 40%;
+        position: relative;
+        left: 12%;
+        top: 222px;
+        border: 1px solid;
+        padding: 30px;
+        border-radius: 7px;
+    }
+    h5{
+        font-size: 0.88rem !important;
+        font-weight: 800 !important;
+        margin-left: 8px;
+    }
+    form{
+  margin: 20px 0px;
+    }
+    label{
+        font-size: small;
+        font-weight: 700;
+    }
+    .form-control{
+        display: block;
+        width: 100%;
+        padding: 0.250rem .75rem !important;
+        font-size: 1rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color: var(--bs-body-color);
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-color: #eeeeee !important;
+        background-clip: padding-box;
+        border: var(--bs-border-width) solid #bebfbf !important;
+        border-radius: var(--bs-border-radius);
+    }
+    .select {
+        padding: 5px;
+        border-radius: 7px;
+        background: #dcdcdc6e;
+        color: grey;
+        width: 100%;
+      }
+      #cont-2{
+        padding: 30px;
+        position: relative;
+        top: 250px;
+      }
+      h3{
+        text-align: center;
+        width: 23%;
+        margin-left: 120px;
+        font-size: 22px !important;
+        font-family: sans-serif;
+        font-weight: bold !important;
+      }
+      s{
+        font-size: x-small;
+        text-decoration: none;
+        display: block;
+        text-align: center;
+        font-family: sans-serif;
+        margin-left: -220px;
+      }
+      .vel{
+        display: block;
+        margin-left: 16px;
+      }
+      .card{
+        width: 19rem;
+        margin-bottom: 15px;
+      }
+      #img-top{
+        margin: 30px;
+        width: 30px;
+      }
+      .z-1{
+        display: block;
+        font-size: 0.9rem;
+        font-family: sans-serif;
+        font-weight: 900;
+        position: relative;
+        left: 30%;
+        top: -55px;
+      }
+      .z-2{
+        display: block;
+        font-size: 0.9rem;
+        font-family: sans-serif;
+        font-weight: 900;
+        position: relative;
+        left: 30%;
+        top: -55px;
+      }
+      .z-3{
+        display: block;
+        font-size: 0.9rem;
+        font-family: sans-serif;
+        font-weight: 900;
+        position: relative;
+        left: 30%;
+        top: -55px;
+      }
+      .card-body{
+        background: white;
+        padding: 2px;
+        width: 100%;
+      }
+      .card-text{
+        font-size: 0.7rem;
+        font-family: sans-serif;
+        width: 100%;
+        position: relative;
+        left: 25px;
+        top: -11px;
+        text-align: justify;
+      }
+      .card-text a{
+        text-decoration: none;
+        color: #0090ca;
+        position: relative;
+        left: -140px;
+        top: 15px;
+      }
+  }
+  
