@@ -16,21 +16,21 @@
     .img-1{
       width: 20px;
       position: relative;
-      left: 240px;
+      left: 220px;
       top: 7px;
       filter: brightness(0.5);
     }
     .img-2{
       width: 20px;
       position: relative;
-      left: 275px;
+      left: 255px;
       top: -16px;
       filter: brightness(0.5);
     }
     .img-3{
       width: 20px;
       position: relative;
-      left: 380px;
+      left: 360px;
       top: -40px;
       filter: brightness(0.5);
     }
