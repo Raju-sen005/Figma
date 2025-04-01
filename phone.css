@@ -1,4 +1,7 @@
 @media (max-width: 426px) {
+    body{
+        position: fixed;
+        }
     ul {
       display: flex;
       padding: 0px !important;
@@ -185,7 +188,7 @@
       .card-body{
         background: white;
         padding: 2px;
-        width: 100%;
+        width: 100% !important;
       }
       .card-text{
         font-size: 0.7rem;
