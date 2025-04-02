@@ -37,9 +37,9 @@
     h1{
         width: 50%;
         position: relative;
-        left: 7%;
+        left: 5%;
         top: 40px;
-        margin-left: 85px;
+        margin-left: 80px;
         text-align: center;
         font-size: calc(1.23rem + 0.5vw) !important;
     }
@@ -47,10 +47,10 @@
         font-size: 0.7rem;
         margin: 0px;
         font-family: sans-serif;
-        width: 46%;
+        width: 50%;
         text-align: center;
         position: relative;
-        left: 22%;
+        left: 25%;
         top: 40px;
     }
     #c-1{
