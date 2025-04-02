@@ -1,7 +1,4 @@
 @media (max-width: 426px) {
-     body{
-    width: 425px !important;
-  }  
     ul {
       display: flex;
       padding: 0px !important;
