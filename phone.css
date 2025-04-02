@@ -6,7 +6,7 @@
       position: absolute;
       font-size: large;
       text-align: center;
-      margin-left: -320px;
+      margin-left: -300px;
       margin-top: 2.5rem !important;
     }
     li a{
@@ -37,7 +37,7 @@
     h1{
         width: 50%;
         position: relative;
-        left: 5%;
+        left: 7%;
         top: 40px;
         margin-left: 78px;
         text-align: center;
@@ -50,7 +50,7 @@
         width: 50%;
         text-align: center;
         position: relative;
-        left: 25%;
+        left: 27%;
         top: 40px;
     }
     #c-1{
@@ -58,7 +58,7 @@
         border-radius: 100px;
         padding: 5px 10px 5px 10px;
         position: relative;
-        left: 37%;
+        left: 38%;
         top: 30px;
         text-align: center;
         border: transparent;
@@ -70,7 +70,7 @@
         background: transparent;
         border-radius: 100px;
         position: relative;
-        left: 9.8%;
+        left: 10.8%;
         top: 65px;
         text-align: center;
         width: 90px;
@@ -81,7 +81,7 @@
     .contain{
         width: 67%;
         position: relative;
-        left: 16%;
+        left: 19%;
         top: 222px;
         border: 1px solid;
         padding: 30px;
@@ -129,7 +129,7 @@
       }
       h3{
         text-align: center;
-        width: 40%;
+        width: 45%;
         margin-left: 100px;
         font-size: 22px !important;
         font-family: sans-serif;
@@ -141,11 +141,11 @@
         display: block;
         text-align: center;
         font-family: sans-serif;
-        margin-left: 0px;
+        margin-left: 5px;
       }
       .vel{
         display: block;
-        margin-left: -5px;
+        margin-left: 0px;
       }
       .card{
         width: 19rem;
