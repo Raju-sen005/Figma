@@ -70,7 +70,7 @@
         background: transparent;
         border-radius: 100px;
         position: relative;
-        left: 9%;
+        left: 10%;
         top: 65px;
         text-align: center;
         width: 90px;
@@ -79,7 +79,7 @@
         border-color: #0c770c;
     }
     .contain{
-        width: 40%;
+        width: 60%;
         position: relative;
         left: 12%;
         top: 222px;
