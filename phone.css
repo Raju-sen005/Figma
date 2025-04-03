@@ -1,6 +1,7 @@
 @media (max-width: 426px) {
     body{
-        width: 425px;
+        width: 100%
+        overflow-x: hidden;
     }
     ul {
       display: flex;
