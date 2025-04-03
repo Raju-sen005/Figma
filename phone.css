@@ -10,13 +10,13 @@
       position: absolute;
       font-size: large;
       text-align: center;
-      margin-left: -300px;
+      margin-left: -295px;
       margin-top: 2.5rem !important;
     }
     li a{
       text-decoration: none;
       color: #5d5d5d;
-        margin-bottom: 8px;
+        margin-bottom: 15px;
     }
     .img-1{
       width: 20px;
@@ -42,7 +42,7 @@
     h1{
         width: 50%;
         position: relative;
-        left: 9%;
+        left: 10%;
         top: 40px;
         margin-left: 80px;
         text-align: center;
@@ -55,7 +55,7 @@
         width: 50%;
         text-align: center;
         position: relative;
-        left: 33%;
+        left: 34%;
         top: 40px;
     }
     #c-1{
@@ -63,7 +63,7 @@
         border-radius: 100px;
         padding: 5px 10px 5px 10px;
         position: relative;
-        left: 42.8%;
+        left: 43.8%;
         top: 30px;
         text-align: center;
         border: transparent;
@@ -75,7 +75,7 @@
         background: transparent;
         border-radius: 100px;
         position: relative;
-        left: 15%;
+        left: 16%;
         top: 65px;
         text-align: center;
         width: 90px;
@@ -84,9 +84,9 @@
         border-color: #0c770c;
     }
     .contain{
-        width: 67%;
+        width: 69%;
         position: relative;
-        left: 24%;
+        left: 26%;
         top: 222px;
         border: 1px solid;
         padding: 30px;
@@ -135,7 +135,7 @@
       h3{
         text-align: center;
         width: 40%;
-        margin-left: 120px;
+        margin-left: 122px;
         font-size: 22px !important;
         font-family: sans-serif;
         font-weight: bold !important;
@@ -146,11 +146,11 @@
         display: block;
         text-align: center;
         font-family: sans-serif;
-        margin-left: 21px;
+        margin-left: 25px;
       }
       .vel{
         display: block;
-        margin-left: 16px;
+        margin-left: 20px;
       }
       .card{
         width: 19rem;
