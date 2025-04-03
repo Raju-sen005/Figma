@@ -1,11 +1,7 @@
 @media (max-width: 426px) {
     body{
-        width: 80%
+        width: 50%
         overflow-x: hidden;
-    }
-    *{
-        max-width: 80%
-        box-sizing: border-box;
     }
     ul {
       display: flex;
