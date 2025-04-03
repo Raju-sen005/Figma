@@ -1,17 +1,4 @@
 @media (max-width: 426px) {
-    body{
-    width: 425px !important;
-    margin: auto;
-  }  
-  .container{
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    width: 425px;
-    padding-right: calc(var(--bs-gutter-x)* .5);
-    /* padding-left: calc(var(--bs-gutter-x)* .5); */
-    margin-right: auto;
-    margin-left: auto;
-  }
     ul {
       display: flex;
       padding: 0px !important;
