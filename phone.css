@@ -1,6 +1,6 @@
 @media (max-width: 426px) {
     body{
-        width: 50%
+        width: 100%
         overflow-x: hidden;
     }
     ul {
@@ -167,7 +167,6 @@
         font-weight: 900;
         position: relative;
         left: 30%;
-          width: 40%
         top: -55px;
       }
       .z-2{
@@ -177,7 +176,6 @@
         font-weight: 900;
         position: relative;
         left: 30%;
-          width: 54%
         top: -55px;
       }
       .z-3{
@@ -187,7 +185,6 @@
         font-weight: 900;
         position: relative;
         left: 30%;
-          width: 44%
         top: -55px;
       }
       .card-body{
