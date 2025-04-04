@@ -171,10 +171,8 @@
       }
       .card{
         width: 19rem;
-          position: relative;
-          left:-10px
-        margin-bottom: 15px;
-          margin-inline:0px !important 
+        margin-bottom: 0px;
+          margin-inline:15px !important 
           background: #dcf4f7;
       }
       #img-top{
