@@ -162,7 +162,7 @@
         display: block;
         text-align: center;
           position: relative;
-          left:-25px;
+          left:0px;
         font-family: sans-serif;
       }
       .vel{
