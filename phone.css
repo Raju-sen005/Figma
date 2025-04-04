@@ -1,13 +1,13 @@
 @media (max-width: 426px) {
     body{
-        width: 375px
+        width: 370px
         background: red;
     }
     .container{
-        width:375px !important;
+        width:370px !important;
     }
     #nav{
-        width:375px;
+        width:370px;
     }
     ul {
       display: flex;
@@ -48,7 +48,7 @@
     }
     .hipper{
         position: relative; 
-        width:375px;
+        width:370px;
         height:206px;
     }
     h1{
