@@ -1,7 +1,7 @@
 @media (max-width: 426px) {
     body{
         width: 366px;
-        background: Aqua;
+        background: aqua !important;
     }
     .container{
         width:366px !important;
