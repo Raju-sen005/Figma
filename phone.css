@@ -16,12 +16,9 @@
       position: relative;
       font-size: large;
       text-align: center;
-      margin-top: 2rem !important;
+      margin-top: 3rem !important;
         width: 37%;
         left:26%
-    }
-    li{
-        margin-bottom: 15px
     }
     li a{
       text-decoration: none;
