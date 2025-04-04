@@ -7,7 +7,7 @@
         width:400px !important;
     }
     #nav{
-        width:425px;
+        width:400px;
     }
     ul {
       display: flex;
@@ -48,7 +48,7 @@
     }
     .hipper{
         position: relative; 
-        width:425px;
+        width:400px;
         height:206px;
     }
     h1{
