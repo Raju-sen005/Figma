@@ -157,6 +157,8 @@
         text-decoration: none;
         display: block;
         text-align: center;
+          position: relative;
+          left:0px;
         font-family: sans-serif;
       }
       .vel{
