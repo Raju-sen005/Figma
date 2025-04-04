@@ -4,10 +4,10 @@
         background: red;
     }
     .container{
-        width:400px !important;
+        width:380px !important;
     }
     #nav{
-        width:400px;
+        width:380px;
     }
     ul {
       display: flex;
@@ -48,7 +48,7 @@
     }
     .hipper{
         position: relative; 
-        width:400px;
+        width:380px;
         height:206px;
     }
     h1{
