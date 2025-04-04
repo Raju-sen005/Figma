@@ -54,7 +54,8 @@
     h1{
         width: 37%;
         position: relative;
-        left: 30.9%;
+        left: 22%;
+        top: 0px
         margin: 0px;
         text-align: center;
         font-size: calc(1.23rem + 0.5vw) !important;
