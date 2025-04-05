@@ -1,7 +1,7 @@
 @media (max-width: 426px) {
     body{
         width: 366px;
-        background: #ffffff !important;
+        background: #d6e4e7 !important;
     }
     .container{
         width:366px !important;
@@ -12,6 +12,7 @@
         left:-10px;
         top:0px;
         padding-top:2rem;
+        background: #ffffff;
     }
     ul {
       display: flex;
@@ -58,7 +59,6 @@
         top: -100px
         width:366px;
         height:206px;
-        background: aqua!important;
     }
     h1{
         width: 43%;
@@ -151,6 +151,7 @@
         padding: 30px;
         position: relative;
         top: 200px;
+          background: #ffffff;
       }
       h3{
         text-align: center;
