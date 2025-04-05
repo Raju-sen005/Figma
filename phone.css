@@ -7,7 +7,7 @@
         width:366px !important;
     }
     #nav{
-        width:375px;
+        width:377px;
         position: relative;
         left:-10px;
         top:0px;
@@ -152,7 +152,7 @@
         position: relative;
         top: 200px;
           background: #ffffff;
-          width:377px
+          width:377px !important;
       }
       h3{
         text-align: center;
