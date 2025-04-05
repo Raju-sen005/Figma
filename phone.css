@@ -8,6 +8,7 @@
     }
     #nav{
         width:366px;
+        background: #ffffff !important;
     }
     ul {
       display: flex;
