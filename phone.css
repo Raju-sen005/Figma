@@ -1,7 +1,7 @@
 @media (max-width: 426px) {
     body{
         width: 366px;
-        background: linear-gradient(to right, aqua, white) !important;
+        background: #d5e3e6 !important;
     }
     .container{
         width:366px !important;
