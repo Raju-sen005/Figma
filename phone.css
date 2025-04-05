@@ -8,6 +8,9 @@
     }
     #nav{
         width:366px;
+        position: relative;
+        left:-10px;
+            top:-30px;
         background: #ffffff !important;
     }
     ul {
