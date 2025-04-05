@@ -11,6 +11,7 @@
         position: relative;
         left:-10px;
         top:0px;
+        padding-top:2rem;
         background: #ffffff !important;
     }
     ul {
@@ -20,7 +21,7 @@
       position: relative;
       font-size: large;
       text-align: center;
-      margin-top: 2rem !important;
+      margin-top: 0rem !important;
         width: 37%;
         left:29%
     }
