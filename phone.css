@@ -63,7 +63,7 @@
     h1{
         width: 43%;
         position: relative;
-        left: 30%;
+        left: 30% !important;
         margin: 0px;
         text-align: center;
         font-size: calc(1.23rem + 0.5vw) !important;
@@ -75,7 +75,7 @@
         width: 62%;
         text-align: center;
         position: relative;
-        left: 65px;
+        left: 65px !important;
     }
     #c-1{
         background: #0d6b72;
