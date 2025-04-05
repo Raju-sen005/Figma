@@ -151,6 +151,7 @@
         padding: 30px;
         position: relative;
         top: 200px;
+          background:#ffffff !important;
       }
       h3{
         text-align: center;
