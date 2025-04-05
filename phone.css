@@ -9,8 +9,8 @@
     #nav{
         width:366px;
         position: relative;
-        left:0px;
-            top:-40px;
+        left:-5px;
+        top:-30px;
         background: #ffffff !important;
     }
     ul {
