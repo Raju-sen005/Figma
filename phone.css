@@ -1,10 +1,10 @@
 @media (max-width: 426px) {
     body{
-        width: 366px;
+        width: 380px;
         background: #ffffff !important;
     }
     .container{
-        width:366px !important;
+        width:380px !important;
     }
     #nav{
         width:380px;
