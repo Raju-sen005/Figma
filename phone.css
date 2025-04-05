@@ -10,7 +10,7 @@
         width:380px;
         position: relative;
         left:-10px;
-        top:10px;
+        top:0px;
         background: #ffffff !important;
     }
     ul {
@@ -22,7 +22,7 @@
       text-align: center;
       margin-top: 0rem !important;
         width: 37%;
-        left:26%
+        left:29%
     }
     li{
         margin-bottom:10px
