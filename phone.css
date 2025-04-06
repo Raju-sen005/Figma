@@ -186,7 +186,7 @@
   .vel {
     display: flex;
     flex-direction: column;
-    padding: inherit;
+    padding: inherit !important;
   }
   .my-4 {
     margin-top: 0.5rem !important;
